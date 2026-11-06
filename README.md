@@ -30,16 +30,11 @@ The observed transaction date range is **2023-01-01 to 2025-06-30**. The workboo
 ├── Product-Sales-Region.xlsx
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-├── report/
-│   └── Retail_Store_Sales_Analysis_Report.docx
-├── presentation/
-│   └── Retail_Store_Sales_Analysis_Presentation.pptx
-└── figures/
-    ├── revenue_by_product.png
-    ├── revenue_by_region.png
-    ├── customer_frequency.png
-    └── rfm_segments.png
+└── revenue_by_product.png
+└── revenue_by_region.png
+└── customer_frequency.png
+└── rfm_segments.png
+└── 
 ```
 
 ## Run the project
