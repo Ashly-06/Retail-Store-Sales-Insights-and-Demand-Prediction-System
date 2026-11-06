@@ -34,7 +34,6 @@ The observed transaction date range is **2023-01-01 to 2025-06-30**. The workboo
 └── revenue_by_region.png
 └── customer_frequency.png
 └── rfm_segments.png
-└── 
 ```
 
 ## Run the project
@@ -75,5 +74,3 @@ Open the notebook and keep the Excel workbook in the same working directory.
 ## Generated outputs
 The notebook exports `cleaned_retail_sales.csv`, `quantity_model_comparison.csv`, `demand_forecast_metrics.csv`, and `demand_forecast_holdout.csv` to the current runtime directory (or `/content` in Colab).
 
-## License
-Add a license file if you intend to publish this repository for reuse. Confirm that you have permission to share the source dataset before making it public.
